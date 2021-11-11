@@ -1,0 +1,28 @@
+{
+  "name": "contentdeliverypatterns",
+  "version": "0.1.0",
+  "description": "A static site for content delivery pattern exploration",
+  "main": ".vuepress/dist/index.html",
+  "scripts": {
+    "test": "npx vuepress dev",
+    "deploy": "npx vuepress build && firebase deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villetakanen/contentdeliverypatterns.git"
+  },
+  "keywords": [
+    "cdn",
+    "patterns",
+    "architecture",
+    "vuepress",
+    "web",
+    "site"
+  ],
+  "author": "Ville Takanen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/villetakanen/contentdeliverypatterns/issues"
+  },
+  "homepage": "https://github.com/villetakanen/contentdeliverypatterns#readme"
+}
