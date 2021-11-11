@@ -1,2 +1,4 @@
-.vuepress
+.vuepress/.temp
+.vuepress/.cache
+.vuepress/dist
 .firebase
