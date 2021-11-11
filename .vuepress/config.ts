@@ -8,5 +8,12 @@ export default defineUserConfig<DefaultThemeOptions>({
 
   themeConfig: {
     logo: '/rocket.svg',
+    navbar: [
+      {
+        text: 'Patterns',
+        link: '/patterns/',
+        children: ['/patterns/classic.md', '/patterns/headless.md']
+      }
+    ]
   },
 })
