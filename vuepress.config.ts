@@ -5,9 +5,10 @@ export default defineUserConfig<DefaultThemeOptions>({
   lang: 'en-GB',
   title: 'Content Delivery Patterns',
   description: 'Just playing around',
+  public: './public',
 
   themeConfig: {
-    logo: '/rocket.svg',
+    logo: './rocket.svg',
     /* navbar: [
       {
         text: 'Patterns',
