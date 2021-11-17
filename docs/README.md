@@ -14,10 +14,8 @@ Ops is key to survivability.
 
 ## Index
 
--- NO CONTENT YET --
+1. [Static website](./StaticWebsite.md)
 
 ## Examples
-
-![A Static Site](./chart-static-website.svg)
 
 ![Client Side Rendering](./chart-client-side-rendering.svg)
