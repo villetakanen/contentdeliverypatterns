@@ -12,7 +12,11 @@ export default defineUserConfig<DefaultThemeOptions>({
       {
         text: 'Patterns',
         link: '/patterns/',
-        children: ['/patterns/classic.md', '/patterns/headless.md']
+        children: [
+          '/patterns/basic.md',
+          '/patterns/classic.md',
+          '/patterns/headless.md'
+        ]
       }
     ]
   },
