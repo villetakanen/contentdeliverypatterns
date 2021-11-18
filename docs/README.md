@@ -14,8 +14,19 @@ Ops is key to survivability.
 
 ## Index
 
+The patterns for content delivery
+
 1. [Static website](./StaticWebsite.md)
+2. Embedded content (frames, objects)
+3. [CSR – Client side rendering](./ClientSideRendering.md)
+4. SSR - Server side rendering
+5. Content Delivery Network
+6. Proxy
+7. Gateway
 
-## Examples
+# Appendix
 
-![Client Side Rendering](./chart-client-side-rendering.svg)
+Some other important topics
+
+1. Cross Site Content
+2. Single Sign on
