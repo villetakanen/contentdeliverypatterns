@@ -12,6 +12,13 @@ Day-0 choices are unlikely to be day-365 choices, and so on. Be willing to inves
 
 Ops is key to survivability. 
 
+## Base concepts
+
+1. **Asset** is a piece of _static_ content delivered for the client
+2. **Data** is a piece of _dynamic_ content delivered for, or from, the client
+3. **App Logic** is presentation layer code, responsible for Application Experience (might be indistinguishable from business logic, in a small app)
+4. **Business Logic** is code, responsible for applying business rules for the _data_ 
+
 ## Index
 
 The patterns for content delivery
@@ -23,6 +30,7 @@ The patterns for content delivery
 5. Content Delivery Network
 6. Proxy
 7. Gateway
+8. [CDN – a Content Delivery network](./ContentDeliveryNetwork.md)
 
 # Appendix
 
